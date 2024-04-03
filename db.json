@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "CRUD",
+      "author": "Arthur Cremasco",
+      "content": "CRUD com Vue"
+    },
+    {
+      "id": "2",
+      "title": "CRUD",
+      "author": "Arthur Cremasco",
+      "content": "CRUD com Vue"
+    },
+    {
+      "id": "3",
+      "title": "CRUD",
+      "author": "Arthur Cremasco",
+      "content": "CRUD com Vue"
+    }
+  ]
+}
